@@ -1,0 +1,226 @@
+{
+  "courses": [
+    {
+      "code": "AIE111",
+      "name": "Artificial Intelligence",
+      "credit_hours": 3,
+      "prerequisites": ["CSE015"]
+    },
+    {
+      "code": "AIE121",
+      "name": "Machine Learning",
+      "credit_hours": 3,
+      "prerequisites": ["AIE111"]
+    },
+    {
+      "code": "AIE122",
+      "name": "Basics of Machine Learning and Data Science",
+      "credit_hours": 3,
+      "prerequisites": ["MAT131"]
+    },
+    {
+      "code": "AIE191",
+      "name": "Field Training 1 in AI Science",
+      "credit_hours": 2,
+      "prerequisites": []
+    },
+    {
+      "code": "AIE212",
+      "name": "Knowledge-based Systems",
+      "credit_hours": 3,
+      "prerequisites": ["AIE111"]
+    },
+    {
+      "code": "AIE213",
+      "name": "Optimization techniques",
+      "credit_hours": 3,
+      "prerequisites": ["MAT312"]
+    },
+    {
+      "code": "AIE231",
+      "name": "Neural Networks",
+      "credit_hours": 3,
+      "prerequisites": ["AIE121"]
+    },
+    {
+      "code": "AIE241",
+      "name": "Natural Language Processing",
+      "credit_hours": 3,
+      "prerequisites": ["AIE121"]
+    },
+    {
+      "code": "AIE291",
+      "name": "Field Training 1 in AI Engineering",
+      "credit_hours": 2,
+      "prerequisites": []
+    },
+    {
+      "code": "AIE292",
+      "name": "Field Training 2 in AI Science",
+      "credit_hours": 2,
+      "prerequisites": []
+    },
+    {
+      "code": "AIE314",
+      "name": "AI-based programming",
+      "credit_hours": 3,
+      "prerequisites": ["AIE212"]
+    },
+    {
+      "code": "AIE315",
+      "name": "Computational Logic",
+      "credit_hours": 3,
+      "prerequisites": ["AIE111"]
+    },
+    {
+      "code": "AIE316",
+      "name": "Evolutionary Algorithms",
+      "credit_hours": 3,
+      "prerequisites": ["AIE213"]
+    },
+    {
+      "code": "AIE317",
+      "name": "Artificial intelligence in medicine",
+      "credit_hours": 2,
+      "prerequisites": []
+    },
+    {
+      "code": "AIE322",
+      "name": "Advanced Machine Learning",
+      "credit_hours": 3,
+      "prerequisites": ["AIE121"]
+    },
+    {
+      "code": "AIE323",
+      "name": "Data Mining",
+      "credit_hours": 3,
+      "prerequisites": ["AIE121"]
+    },
+    {
+      "code": "AIE332",
+      "name": "Deep Learning",
+      "credit_hours": 3,
+      "prerequisites": ["AIE231"]
+    },
+    {
+      "code": "AIE342",
+      "name": "Advanced Methods for Data Analysis",
+      "credit_hours": 3,
+      "prerequisites": ["AIE323"]
+    },
+    {
+      "code": "AIE343",
+      "name": "Machine Learning for Text Mining",
+      "credit_hours": 3,
+      "prerequisites": ["AIE323", "AIE241"]
+    },
+    {
+      "code": "AIE351",
+      "name": "Robotics Design",
+      "credit_hours": 3,
+      "prerequisites": ["AIE111"]
+    },
+    {
+      "code": "AIE392",
+      "name": "Field Training 2 in AI Engineering",
+      "credit_hours": 2,
+      "prerequisites": []
+    },
+    {
+      "code": "AIE417",
+      "name": "Selected Topics in Artificial Intelligence 1",
+      "credit_hours": 3,
+      "prerequisites": ["AIE111"]
+    },
+    {
+      "code": "AIE418",
+      "name": "Selected Topics in Artificial Intelligence 2",
+      "credit_hours": 3,
+      "prerequisites": ["AIE111"]
+    },
+    {
+      "code": "AIE419",
+      "name": "Artificial intelligence for computer games",
+      "credit_hours": 3,
+      "prerequisites": []
+    },
+    {
+      "code": "AIE424",
+      "name": "Intelligent Decision Support Systems",
+      "credit_hours": 3,
+      "prerequisites": ["AIE323"]
+    },
+    {
+      "code": "AIE425",
+      "name": "Intelligent Recommender Systems",
+      "credit_hours": 3,
+      "prerequisites": ["AIE323"]
+    },
+    {
+      "code": "AIE426",
+      "name": "Decision Making under Uncertainty",
+      "credit_hours": 3,
+      "prerequisites": ["AIE323"]
+    },
+    {
+      "code": "AIE427",
+      "name": "Statistical Pattern Recognition",
+      "credit_hours": 3,
+      "prerequisites": ["AIE322"]
+    },
+    {
+      "code": "AIE444",
+      "name": "Question Answering Systems",
+      "credit_hours": 3,
+      "prerequisites": ["AIE241"]
+    },
+    {
+      "code": "AIE452",
+      "name": "Cognitive Robotics",
+      "credit_hours": 3,
+      "prerequisites": ["AIE351"]
+    },
+    {
+      "code": "AIE453",
+      "name": "Planning Techniques for Robotics",
+      "credit_hours": 3,
+      "prerequisites": ["AIE351"]
+    },
+    {
+      "code": "AIE454",
+      "name": "Robot Kinematics & Dynamics",
+      "credit_hours": 3,
+      "prerequisites": ["AIE351"]
+    },
+    {
+      "code": "AIE455",
+      "name": "Robot Mapping & Localization",
+      "credit_hours": 3,
+      "prerequisites": ["AIE351"]
+    },
+    {
+      "code": "AIE456",
+      "name": "Human Robot Interaction",
+      "credit_hours": 3,
+      "prerequisites": ["AIE351"]
+    },
+    {
+      "code": "AIE457",
+      "name": "Mobile Robot Development",
+      "credit_hours": 3,
+      "prerequisites": ["AIE351"]
+    },
+    {
+      "code": "AIE493",
+      "name": "Graduation Project 1",
+      "credit_hours": 3,
+      "prerequisites": ["SENIOR STANDING"]
+    },
+    {
+      "code": "AIE494",
+      "name": "Graduation Project 2",
+      "credit_hours": 3,
+      "prerequisites": ["AIE493"]
+    }
+  ]
+}
